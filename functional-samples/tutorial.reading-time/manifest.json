@@ -16,7 +16,7 @@
       "matches": [
         "https://developer.chrome.com/docs/extensions/*",
         "https://developer.chrome.com/docs/webstore/*",
-        "sai-01.github.io"
+        "https://sai-01.github.io/"
       ]
     }
   ]
